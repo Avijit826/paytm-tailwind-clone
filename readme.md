@@ -25,7 +25,6 @@
 
 # 📖 About Project <a name="about-project"></a>
 
-<hr/>
 **Paytm Tailwind Clone** is a UI clone of a of a payments app.
 
 Here I'm using **tailwind css** to achive the same result.
@@ -34,7 +33,6 @@ Here I'm using **tailwind css** to achive the same result.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-<hr/>
 ### Tech Stack <a name="tech-stack"></a>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +41,6 @@ Here I'm using **tailwind css** to achive the same result.
 
 ## 👨‍💻 Things learnt <a name="things-learnt"></a>
 
-<hr/>
 - How to create responsive website
 - Tailwind CSS
   - Configeration of tailwind
@@ -56,7 +53,6 @@ Here I'm using **tailwind css** to achive the same result.
 
 ## 🚀 Live Preview <a name="live-preview"></a>
 
-<hr/>
 Hostings
 
 [![Live Link](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://redesign-payment-app.netlify.app)
@@ -64,8 +60,6 @@ Hostings
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-<hr/>
 
 - ### Setup
 
@@ -91,8 +85,6 @@ Open project folder
 <!-- AUTHOR -->
 
 ## 👤 Find Me <a name="author"></a>
-
-<hr/>
 
 - [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avijit826)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijitdas826)

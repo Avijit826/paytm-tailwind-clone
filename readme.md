@@ -2,9 +2,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="./images/hero-logo.png" alt="Logo" width="80" height="80">
-  </a>
   <h1 align="center">Paytm Tailwind Clone</h1>
   </div>
 
